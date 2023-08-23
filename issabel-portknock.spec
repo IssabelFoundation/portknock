@@ -4,7 +4,7 @@ Summary: Single-packet port-knocking utility for Issabel
 Name: issabel-portknock
 Group: Applications/System
 Version: 4.0.0
-Release: 2
+Release: 3 
 License: GPL
 Source0: issabel-%{modname}-%{version}.tar.gz
 BuildRequires: libpcap-devel
